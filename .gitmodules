@@ -1,0 +1,3 @@
+[submodule "sales"]
+	path = sales
+	url = git@bitbucket.org:mizim/dotfiles-mizim-sales.git
